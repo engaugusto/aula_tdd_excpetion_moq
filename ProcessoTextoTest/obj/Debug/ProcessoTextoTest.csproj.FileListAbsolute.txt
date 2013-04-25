@@ -1,0 +1,7 @@
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\bin\Debug\ProcessoTextoTest.dll
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\bin\Debug\ProcessoTextoTest.pdb
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\bin\Debug\ProcessaTextoBL.dll
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\bin\Debug\ProcessaTextoBL.pdb
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\obj\Debug\ResolveAssemblyReference.cache
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\obj\Debug\ProcessoTextoTest.dll
+C:\curso_tdd_tfs\ProcessaTexto\ProcessoTextoTest\obj\Debug\ProcessoTextoTest.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4494ff91-d3c6-41c4-89da-ca7f43f2837e" name="calsilva@NB016671E 2013-04-24 21:02:59" runUser="BRQ\calsilva" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="be74ecfe-c110-447b-a0ef-4b528e5ec614">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="calsilva_NB016671E 2013-04-24 21_02_59">
+      <DeploymentItem filename="C:\curso_tdd_tfs\ProcessaTexto\ProcessaTextoBL\bin\Debug\ProcessaTextoBL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-24T21:02:59.8053831-03:00" queuing="2013-04-24T21:02:59.8543859-03:00" start="2013-04-24T21:02:59.8673867-03:00" finish="2013-04-24T21:03:00.1204012-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ConverteEntradaEmDiasTest" storage="c:\curso_tdd_tfs\processatexto\processotextotest\bin\debug\processotextotest.dll" id="df639ac9-b7d7-a583-7e91-dfe2b873e1c6">
+      <Execution id="fc24cb24-4ff7-4a46-81de-af4538ae73b5" />
+      <TestMethod codeBase="C:/curso_tdd_tfs/ProcessaTexto/ProcessoTextoTest/bin/Debug/ProcessoTextoTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessoTextoTest.ProcessaTextoRegraTest, ProcessoTextoTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConverteEntradaEmDiasTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="df639ac9-b7d7-a583-7e91-dfe2b873e1c6" executionId="fc24cb24-4ff7-4a46-81de-af4538ae73b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fc24cb24-4ff7-4a46-81de-af4538ae73b5" testId="df639ac9-b7d7-a583-7e91-dfe2b873e1c6" testName="ConverteEntradaEmDiasTest" computerName="NB016671E" duration="00:00:00.0236287" startTime="2013-04-24T21:02:59.8723870-03:00" endTime="2013-04-24T21:03:00.1064004-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc24cb24-4ff7-4a46-81de-af4538ae73b5">
+    </UnitTestResult>
+  </Results>
+</TestRun>
