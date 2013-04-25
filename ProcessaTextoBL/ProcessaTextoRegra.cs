@@ -9,6 +9,9 @@ namespace ProcessaTextoBL
     {
         public List<int> ConverteEntradaEmDias(string entradaUsu)
         {
+            if (entradaUsu.Length < 30)
+                throw new LimiteTamanhoTextoException();
+
             List<int> retDias = new List<int>();
             for (int i = 0; i < entradaUsu.Length; i++)
             {

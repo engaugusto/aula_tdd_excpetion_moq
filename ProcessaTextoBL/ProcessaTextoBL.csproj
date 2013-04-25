@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LimiteTamanhoTextoException.cs" />
     <Compile Include="ProcessaTextoRegra.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

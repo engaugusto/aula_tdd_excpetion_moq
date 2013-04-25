@@ -91,6 +91,7 @@ namespace ProcessoTextoTest
         }
 
         [TestMethod()]
+        [ExpectedException(typeof(LimiteTamanhoTextoException))]
         public void VerificaExcecaoLimiteTamanhoTest()
         { 
             ProcessaTextoRegra target = new ProcessaTextoRegra(); // TODO: Initialize to an appropriate value

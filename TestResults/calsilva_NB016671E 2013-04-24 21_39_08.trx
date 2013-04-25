@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="78abb371-429c-458c-9e8f-fb0e9ba80bde" name="calsilva@NB016671E 2013-04-24 21:39:08" runUser="BRQ\calsilva" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="be74ecfe-c110-447b-a0ef-4b528e5ec614">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="calsilva_NB016671E 2013-04-24 21_39_08">
+      <DeploymentItem filename="C:\curso_tdd_tfs\ProcessaTexto\ProcessaTextoBL\bin\Debug\ProcessaTextoBL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-24T21:39:08.3284156-03:00" queuing="2013-04-24T21:39:08.6214323-03:00" start="2013-04-24T21:39:08.6694351-03:00" finish="2013-04-24T21:39:09.0514569-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ConverteEntradaEmDiasTest" storage="c:\curso_tdd_tfs\processatexto\processotextotest\bin\debug\processotextotest.dll" id="df639ac9-b7d7-a583-7e91-dfe2b873e1c6">
+      <Execution id="552b5d4a-324e-4774-bf39-bff7e6605231" />
+      <TestMethod codeBase="C:/curso_tdd_tfs/ProcessaTexto/ProcessoTextoTest/bin/Debug/ProcessoTextoTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessoTextoTest.ProcessaTextoRegraTest, ProcessoTextoTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConverteEntradaEmDiasTest" />
+    </UnitTest>
+    <UnitTest name="VerificaExcecaoLimiteTamanhoTest" storage="c:\curso_tdd_tfs\processatexto\processotextotest\bin\debug\processotextotest.dll" id="17be31c7-da3f-c4e9-d296-8aadbeec5d64">
+      <Execution id="4d819941-399e-46f0-be18-bf5c49d41278" />
+      <TestMethod codeBase="C:/curso_tdd_tfs/ProcessaTexto/ProcessoTextoTest/bin/Debug/ProcessoTextoTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ProcessoTextoTest.ProcessaTextoRegraTest, ProcessoTextoTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VerificaExcecaoLimiteTamanhoTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="17be31c7-da3f-c4e9-d296-8aadbeec5d64" executionId="4d819941-399e-46f0-be18-bf5c49d41278" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df639ac9-b7d7-a583-7e91-dfe2b873e1c6" executionId="552b5d4a-324e-4774-bf39-bff7e6605231" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4d819941-399e-46f0-be18-bf5c49d41278" testId="17be31c7-da3f-c4e9-d296-8aadbeec5d64" testName="VerificaExcecaoLimiteTamanhoTest" computerName="NB016671E" duration="00:00:00.0200317" startTime="2013-04-24T21:39:08.6814358-03:00" endTime="2013-04-24T21:39:08.9964538-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d819941-399e-46f0-be18-bf5c49d41278">
+    </UnitTestResult>
+    <UnitTestResult executionId="552b5d4a-324e-4774-bf39-bff7e6605231" testId="df639ac9-b7d7-a583-7e91-dfe2b873e1c6" testName="ConverteEntradaEmDiasTest" computerName="NB016671E" duration="00:00:00.0190202" startTime="2013-04-24T21:39:08.9984539-03:00" endTime="2013-04-24T21:39:09.0214552-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="552b5d4a-324e-4774-bf39-bff7e6605231">
+    </UnitTestResult>
+  </Results>
+</TestRun>
