@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="467d55eb-5787-4064-825e-1e470283dcb8" name="calsilva@NB016671E 2013-04-24 20:14:00" runUser="BRQ\calsilva" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce4cf718-82fe-415f-9109-872cffc35081">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="calsilva_NB016671E 2013-04-24 20_14_00">
+      <DeploymentItem filename="C:\curso_tdd_tfs\TesteTdd\TesteTdd\bin\Debug\TesteTdd.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-24T20:14:00.8112823-03:00" queuing="2013-04-24T20:14:01.7663369-03:00" start="2013-04-24T20:14:01.8083393-03:00" finish="2013-04-24T20:14:02.2243631-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SomaTest" storage="c:\curso_tdd_tfs\testetdd\calculadoratest\bin\debug\calculadoratest.dll" id="211aec58-28c6-221a-901e-671c8eb194f9">
+      <Execution id="9c3118e1-c8d2-4595-ad67-d68554b3f749" />
+      <TestMethod codeBase="C:/curso_tdd_tfs/TesteTdd/CalculadoraTest/bin/Debug/CalculadoraTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalculadoraTest.CalculadoraTest, CalculadoraTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SomaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="211aec58-28c6-221a-901e-671c8eb194f9" executionId="9c3118e1-c8d2-4595-ad67-d68554b3f749" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9c3118e1-c8d2-4595-ad67-d68554b3f749" testId="211aec58-28c6-221a-901e-671c8eb194f9" testName="SomaTest" computerName="NB016671E" duration="00:00:00.0125500" startTime="2013-04-24T20:14:01.8773433-03:00" endTime="2013-04-24T20:14:02.1593594-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c3118e1-c8d2-4595-ad67-d68554b3f749">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+C:\curso_tdd_tfs\TesteTdd\TesteTdd\bin\Debug\TesteTdd.dll
+C:\curso_tdd_tfs\TesteTdd\TesteTdd\bin\Debug\TesteTdd.pdb
+C:\curso_tdd_tfs\TesteTdd\TesteTdd\obj\Debug\ResolveAssemblyReference.cache
+C:\curso_tdd_tfs\TesteTdd\TesteTdd\obj\Debug\TesteTdd.dll
+C:\curso_tdd_tfs\TesteTdd\TesteTdd\obj\Debug\TesteTdd.pdb

@@ -1,0 +1,7 @@
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\bin\Debug\CalculadoraTest.dll
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\bin\Debug\CalculadoraTest.pdb
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\bin\Debug\TesteTdd.dll
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\bin\Debug\TesteTdd.pdb
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\obj\Debug\ResolveAssemblyReference.cache
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\obj\Debug\CalculadoraTest.dll
+C:\curso_tdd_tfs\TesteTdd\CalculadoraTest\obj\Debug\CalculadoraTest.pdb
